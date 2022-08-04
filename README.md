@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fullstack (Python - Next.js - SQL/NoSQl - AWS) Developer<br>Currently working on: https://virtus-training.vercel.app/<br>Contact me: www.linkedin.com/in/juan-camilo-ramírez-rátiva-010a9320b
+Fullstack (Python - Next.js - SQL/NoSQL - AWS) Developer<br>Currently working on: https://virtus-training.vercel.app/<br>Contact me: www.linkedin.com/in/juan-camilo-ramírez-rátiva-010a9320b
 
 
 ## 🌐 Socials:
